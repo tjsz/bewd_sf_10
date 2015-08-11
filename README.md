@@ -11,7 +11,6 @@ The remotes  (`git remote -v` to check) to this repository should look like this
 
 The origin and upstream remote names are nicknames for your Github repository urls so you can easily push and pull.    **Note:** see a TA if your remotes end with .git and you're having trouble pulling lessons.
 
-
 From your master branch (`git branch`) in `bewd_sf_10` directory, pull from upstream with `git pull upstream master`. You can `ls` to list the new files you've pulled in.
 
 ####Office Hours
