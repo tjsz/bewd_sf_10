@@ -18,11 +18,12 @@ BACK-END WEB DEVELOPMENT
 | 5 | Ruby Foundations | Intro to API's with Ruby Foundations - Part 2| Wed 2015-08-12 |
 | 6 | Ruby Foundations | Object Oriented Concepts: Part 1  | Mon 2015-08-17 |
 | 7 | Ruby & Rails | Object Oriented Concepts: Part 2 | Wed 2015-08-19 |
-| 8 | Ruby & Rails| MVC - Intro to the Controller | Mon 2015-08-24 |
+| 8 | Ruby & Rails | Object Oriented Concepts: Part 3 | Mon 2015-08-24|
 | 9 | Project Proposal| Project Proposal Workshop| Wed 2015-08-26 |
-| 10 | Ruby & Rails| MVC - Intro to the Model ||
-| 11 | Ruby & Rails| MVC - Intro to the View with Bootstrap| |
-| 12 | Ruby & Rails| MVC -  Model Associations & Validations ||
+| 10 | Ruby & Rails| MVC - Intro to the Controller | |
+| 11 | Ruby & Rails| MVC - Intro to the Model ||
+| 12 | Ruby & Rails| MVC - Intro to the View with Bootstrap| |
+| 13 | Ruby & Rails| MVC -  Model Associations & Validations ||
 | 14 | Ruby & Rails| MVC - Model Methods & Active Record Queries ||
 | 15 | Ruby & Rails| Authentication - Devise  & OmniAuth||
 | 16 | Ruby & Rails| Api Integration | Subject to Change|
