@@ -23,10 +23,10 @@ BACK-END WEB DEVELOPMENT
 | 10 | Ruby & Rails| MVC - Intro to the Rails MVC Framework |Mon 2015-08-31 |
 | 11 | Ruby & Rails| MVC - Controller 101 |Wed 2015-09-02|
 | 12 | Ruby & Rails| MVC - View 101 with Bootstrap 3 | |
-| 13 | Ruby & Rails| MVC - Model 101 - Associations & Validations ||
-| 14 | Ruby & Rails| MVC - Model 102 - Intro Model Methods & Active Record Queries ||
-| 15 | Ruby & Rails| Api Integration - Authentication ||
-| 16 | Ruby & Rails| Api Integration - 3rd Party API TBD | Subject to Change|
+| 13 | Ruby & Rails| MVC - Model 101 - Intro to Associations & Validations ||
+| 14 | Ruby & Rails| MVC - Model 102 - Intro to Active Record Queries ||
+| 15 | Ruby & Rails| Api Integration - Authentication, Authorization & Email  ||
+| 16 | Ruby & Rails| Api Integration - 3rd Party API ||
 | ** | Special Sunday Session| Intro to JavaScript ||
 | 17 | Rails & React| React on Rails with Coffeescript  | ||
 | 18 | Ruby & Rails| Project Lab Intensive ||
