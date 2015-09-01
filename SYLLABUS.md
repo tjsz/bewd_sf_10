@@ -20,9 +20,9 @@ BACK-END WEB DEVELOPMENT
 | 7 | Ruby & Rails | Object Oriented Concepts: Part 2 | Wed 2015-08-19 |
 | 8 | Ruby & Rails | Object Oriented Concepts: Part 3 | Mon 2015-08-24|
 | 9 | Project Proposal| Project Proposal Workshop| Wed 2015-08-26 |
-| 10 | Ruby & Rails| MVC - Intro to the Rails MVC Framework | |
-| 11 | Ruby & Rails| MVC - Controller 101 ||
-| 12 | Ruby & Rails| MVC - View 101 with Bootstrap| |
+| 10 | Ruby & Rails| MVC - Intro to the Rails MVC Framework |Mon 2015-08-31 |
+| 11 | Ruby & Rails| MVC - Controller 101 |Wed 2015-09-02|
+| 12 | Ruby & Rails| MVC - View 101 with Bootstrap 3 | |
 | 13 | Ruby & Rails| MVC - Model 101 - Associations & Validations ||
 | 14 | Ruby & Rails| MVC - Model 102 - Intro Model Methods & Active Record Queries ||
 | 15 | Ruby & Rails| Api Integration - Authentication ||
