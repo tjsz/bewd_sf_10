@@ -29,6 +29,6 @@ BACK-END WEB DEVELOPMENT
 | 15 | Ruby & Rails| Api Integration - Authentication, Authorization & Email  |Mon 2015-09-21|
 | 16 | Ruby & Rails| Api Integration - 3rd Party API |Wed 2015-09-23|
 | ** | Special Sunday Session| Intro to JavaScript |Sun 2015-09-27|
-| 17 | Rails & React| React on Rails with Coffeescript  | Mon 2015-09-28|
+| 17 | Rails & React| Project Lab Intensive &  React on Rails with Coffeescript  | Mon 2015-09-28|
 | 18 | Ruby & Rails| Project Lab Intensive |Wed 2015-09-30|
 | 19 | Project Lab | Final Project Presentations !!!!||
