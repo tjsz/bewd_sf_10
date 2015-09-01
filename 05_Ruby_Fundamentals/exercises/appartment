@@ -1,0 +1,19 @@
+require 'pry'
+require 'pry-byebug'
+
+
+class Apartment
+   attr_accessor :suite :bedroom :bath :unit :sqft :rent :renter
+
+  def initialize (suite, bedroom, bath)
+    @suite = suite
+    @bedroom = bedroom
+    @bath = bath
+  end
+
+  def to_s
+    "Suite # #{suite} has #{bedroom.count} and #{bedroom.count}bedrooms."
+
+building = Building.new("99 Heights Lane", "Giggles")
+
+puts building

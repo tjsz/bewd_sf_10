@@ -1,0 +1,25 @@
+require 'pry'
+
+class Thermostat
+    attr_accessor :Nester_temp :High_temp, :low_temp
+
+  def Initialize(Nester_temp, High_temp, low_temp)
+    @Nester_temp = Nester_temp
+    @High_temp = High_temp
+    @low_temp = low_temp
+
+  end
+
+  def perfect_temp (Nester_temp, High_temp, low_temp)
+    binding.pry
+    if Nester_temp = "70"
+    put "It is #{Nester_temp}. Turn up the heat"
+  elsif Nester_temp =< "75" 
+    put "It/s #{Nester_temp}. Watch the Thermostat.  It/s starting to warm up. "
+    end
+
+    def too_hot
+      
+  end
+
+  al_temps

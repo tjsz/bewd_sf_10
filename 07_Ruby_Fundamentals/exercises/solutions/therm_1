@@ -1,0 +1,31 @@
+require 'pry'
+
+class Thermostat
+    attr_accessor :Nester_temp :High_temp, :low_temp
+
+
+  def Initialize(Nester_temp, High_temp, low_temp) #is value
+    @Nester_temp = Nester_temp #is variable
+    @High_temp = High_temp #@ give it VIP status
+    @low_temp = low_temp
+
+  end
+
+# self.low_temp and @low_temp are the all the same inside and instance method. They can go anywhere VIP
+  def perfect_temp (Nester_temp, High_temp, low_temp)
+    binding.pry
+    if Nester_temp = "70"
+    put "It is #{Nester_temp}. Turn up the heat"
+  elsif Nester_temp =< "75" 
+    put "It/s #{Nester_temp}. Watch the Thermostat.  It/s starting to warm up. "
+    end
+
+    def too_hot
+      
+  end
+
+private #private method.  PM can only be called inside other methods. 
+# we don't want and inst. to have access to it
+#to much stuff
+#private methods can only be accessed in private methods
+# you have to pass in the private info

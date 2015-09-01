@@ -1,0 +1,22 @@
+require 'pry'
+
+class Person
+
+#(read access to the value of the variable) will allow you to read all attributes. creates GET or GETTER method that you define
+ # attr_reader :name, :age, :home_town 
+
+  #creates setter for all attributes you define
+ # attr_writer :name, :age
+
+  #is attr reader and writter in one
+  attr_accessor :name :age, :home_town
+  def Initialize(name, age, home_town)# what's in () is not an attriubte #define in a class give you the ablity to create method in class
+    #attributes are not deterime by atter setter.  They are detrime here
+    #Inst. varibles are available throughout the class
+    @name = name #attribute
+    @age = age #attribute
+    @home = home_town #attribute
+  end 
+end
+binding.pry
+John = Person.new ("John", 10,"sf")

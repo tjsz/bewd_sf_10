@@ -1,0 +1,23 @@
+obj = Object.new
+def obj.talk
+  puts "I am an object."
+  puts "(Do you object?)"
+end
+puts obj.talk
+
+
+
+def obj.c2f(c)
+  c * 9.0 / 5 + 32
+end
+  puts obj.c2f (100)
+
+    Puts "What carnival dessert am I thinking of?"
+  get.strip
+  if "cotton candy" #how do I get it to == carnival_dessert:type
+    Puts "Yes. How did you know!"
+  else 
+    puts "Try again"
+    if !==carnival_desserts:type
+  
+    end
