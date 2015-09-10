@@ -20,15 +20,15 @@ BACK-END WEB DEVELOPMENT
 | 8 | Ruby & Rails | Object Oriented Concepts: Part 3 | Mon 2015-08-24|
 | 9 | Project Proposal| Project Proposal Workshop| Wed 2015-08-26 |
 | 10 | Ruby & Rails| MVC - Intro to the Rails MVC Framework |Mon 2015-08-31 |
-| 11 | Ruby & Rails| MVC - Controller 101 |Wed 2015-09-02|
+| 11 | Ruby & Rails| MVC - Controller 101 - CRUD |Wed 2015-09-02|
 | -  | Labor Day | No Class | Mon 2015-09-07 |
-| 12 | Ruby & Rails| Music App: MVC - View 101 with Bootstrap 3 | Wed 2015-09-09|
+| 12 | Ruby & Rails| Music App: MVC - Controller 101 - CRUD Continued. View 101 with Bootstrap 3 | Wed 2015-09-09|
 | ** | Special Sunday Session | TBD |Sun 2015-09-15|
 | 13 | Ruby & Rails| Music App: MVC - Model 101 - Intro to Associations & Validations | Mon 2015-09-14|
 | 14 | Ruby & Rails| Music App: MVC - Model 102 - Intro to Active Record Queries | Wed 2015-09-16 |
-| ** | Special Sunday Session| Music App: MVC - Api Integration 101 - Spotify & Rap Genius Integration |Sun 2015-09-20|
-| 15 | Ruby & Rails| Music App: MVC Api Integration 101- Authentication & Authorization |Mon 2015-09-21|
-| 16 | Ruby & Rails| Api Integration - 3rd Party API's |Wed 2015-09-23|
+| ** | Special Sunday Session| Music App: MVC - Api Integration 101 with GoodReads &  |Sun 2015-09-20|
+| 15 | Ruby & Rails| Music App: MVC - Api Integration 101 with Spotify  |Mon 2015-09-21|
+| 16 | Ruby & Rails| Music App: MVC Api Integration 102- Authentication with Google & Twitter APIs  |Wed 2015-09-23|
 | ** | Special Sunday Session| Intro to React & Final Project Hack Day |Sun 2015-09-27|
 | 17 | Ruby & React| Api Integration - 3rd Party Api's| Mon 2015-09-28|
 | 18 | Ruby & Rails| Project Lab Intensive |Wed 2015-09-30|
