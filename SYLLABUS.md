@@ -23,7 +23,7 @@ BACK-END WEB DEVELOPMENT
 | 11 | Ruby & Rails| MVC - Controller 101 - CRUD |Wed 2015-09-02|
 | -  | Labor Day | No Class | Mon 2015-09-07 |
 | 12 | Ruby & Rails| Music App: MVC - Controller 101 - CRUD Continued | Wed 2015-09-09|
-| ** | Special Sunday Session | MVC - View 101 with Bootstrap  |Sun 2015-09-15|
+| ** | Special Sunday Session | MVC - Routes, Controller & View Deep Dive   |Sun 2015-09-15|
 | 13 | Ruby & Rails| Music App: MVC - Model 101 - Intro to Associations & Validations | Mon 2015-09-14|
 | 14 | Ruby & Rails| Music App: MVC - Model 102 - Intro to Active Record Queries | Wed 2015-09-16 |
 | ** | Special Sunday Session| Music App: MVC - Api Integration 101 with Spotify / GoodReads |Sun 2015-09-20|
