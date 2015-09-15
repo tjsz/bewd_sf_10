@@ -1,4 +1,5 @@
-#Homework: BEWDful Music App - Part 1 thru 3 are due on Monday 9/21!! ****
+#Homework: BEWDful Music App:
+#Part 1 thru 3 are due Monday 9/21 ****
 
 ##Part 0 - Schema & UX Design
 
@@ -77,7 +78,7 @@ Integrate SimpleForm
 
  * Integrate the Spotify API as a source for artist, album, song and genre data
    -This may require that you rework/rethink of your schema and extensive refactoring your app (which is a rite of passage for all developers)
-   
+
 
 #Resources - Mandatory Reading
 
@@ -90,7 +91,4 @@ Integrate SimpleForm
 #Resources - Optional
 * [Code School: Blasting Off with Bootstrap](https://www.codeschool.com/courses/blasting-off-with-bootstrap)
 * [Rails for Zombies - Redux](https://www.codeschool.com/courses/rails-for-zombies-2)
-* 
-
-
- 
+*
