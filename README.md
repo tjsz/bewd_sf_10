@@ -17,6 +17,7 @@ From your master branch (`git branch`) in `bewd_sf_10` directory, pull from upst
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | ------ | ------ | ------- | --------- | -------- | ------ | -------- |
+
 | Kisha <br> 12-2pm | Nicole & Christine 5:30-6:30pm | - | Nicole & Christine: <br> 5:30-6:30pm | - | Travis 6-8 | - |
 
 #####Office hours sign-up sheet
@@ -29,9 +30,9 @@ Note: these are optional resources and **not** homework, but are helpful and rel
 | Resource | Class Topic |
 | -------- | ----------- |
 | [Code School Try Git](https://www.codeschool.com/courses/try-git) <br/>[Git Kitchen with Chef Ramsey](http://bloggytoons.com/posts/2013/10/10/git-kitchen-wchef-ramsay) | Git |
-| Skip around these 3-5 minute videos on [New Boston](https://www.thenewboston.com/videos.php?cat=50) | Core Ruby language |
+| Skip around these 3-5 minute videos on [New Boston](https://www.thenewboston.com/videos.php?cat=50) | Core Ruby |
 | [Interactive visual git workflow](http://onlywei.github.io/explain-git-with-d3/#branch) (advanced) | Git |
-|          | - |
+| Coding game challenge: [Ruby Warrior](https://github.com/ryanb/ruby-warrior) | Core Ruby |
 |          | - |
 |          | - |
 |          | - |
