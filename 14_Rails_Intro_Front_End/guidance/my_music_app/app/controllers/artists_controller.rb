@@ -7,8 +7,18 @@ class ArtistsController < ApplicationController
   end
 
   def new
+    @artist = Artist.new
+  end
+
+  def create
   end
 
   def edit
+  end
+
+  private
+
+  def artist_params
+    params.require(:artist).permit(:name, :image_url, :description)
   end
 end
