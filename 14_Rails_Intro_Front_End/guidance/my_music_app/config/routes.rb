@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   get 'artists/index'
 
   get 'artists/show'
@@ -16,6 +17,16 @@ Rails.application.routes.draw do
  #get 'test' to: "static_pages#test", as "test"
 #establis a root_path
   root 'static_pages#home'
+=======
+
+  resources :artists
+  #establish a custom route
+  get 'about', to: "static_pages#about", as: "about"
+  get 'test', to: "static_pages#test", as: "test"
+ #establish a root_path
+  root 'static_pages#home'
+
+>>>>>>> c93e07862b3941d651202b43986e96353a3e225a
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
